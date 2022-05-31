@@ -1,0 +1,30 @@
+C:\Users\Oscar\Desktop\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.exe
+C:\Users\Oscar\Desktop\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.deps.json
+C:\Users\Oscar\Desktop\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.runtimeconfig.json
+C:\Users\Oscar\Desktop\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.dll
+C:\Users\Oscar\Desktop\Archivos Repetidos\bin\Debug\net6.0\ref\Archivos Repetidos.dll
+C:\Users\Oscar\Desktop\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.pdb
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.csproj.AssemblyReference.cache
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.dll
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\ref\Archivos Repetidos.dll
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.pdb
+C:\Users\Oscar\Desktop\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.genruntimeconfig.cache
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.exe
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.deps.json
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.runtimeconfig.json
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.dll
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\bin\Debug\net6.0\Archivos Repetidos.pdb
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.csproj.AssemblyReference.cache
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.AssemblyInfoInputs.cache
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.AssemblyInfo.cs
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.csproj.CoreCompileInputs.cache
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.dll
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\ref\Archivos Repetidos.dll
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.pdb
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\Archivos Repetidos.genruntimeconfig.cache
+C:\Datos\Codigos\C#\Herramientas\Para uso Normal\Archivos Repetidos\obj\Debug\net6.0\refint\Archivos Repetidos.dll
