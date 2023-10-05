@@ -1,0 +1,5 @@
+
+#Ignore cache folders
+/.vscode/
+/bin/
+/obj/
